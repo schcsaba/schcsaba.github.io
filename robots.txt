@@ -1,0 +1,5 @@
+
+Sitemap: https://matchlesswisdom.com/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://matchlesswisdom.com
