@@ -9,6 +9,14 @@ tags = ["Bhagavad-gītā 2.12", "Individualité éternelle", "Nature de l'âme",
 
 La *Bhagavad-gītā* est l’un des textes spirituels les plus profonds au monde, offrant une sagesse intemporelle sur la nature de la vie, de l’individualité et de l’âme éternelle. Dans le verset 2.12, le Seigneur Kṛṣṇa déclare :
 
+> न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।\
+> न चैव नभविष्यामः सर्वे वयमतः परम् ॥ १२ ॥
+> 
+> *na tv evāhaṁ jātu nāsaṁ*\
+> *na tvaṁ neme janādhipāḥ*\
+> *na caiva na bhaviṣyāmaḥ*\
+> *sarve vayam ataḥ param*
+> 
 > **Jamais ne fut le temps où nous n’existions, Moi, toi et tous ces rois, et jamais aucun de nous ne cessera d’être.**
 
 Ce verset, ainsi que le commentaire perspicace de Śrīla Prabhupāda, offre une compréhension révolutionnaire de notre individualité éternelle, ses implications pour la vie quotidienne, et la manière dont les théories scientifiques modernes et les découvertes résonnent avec cette sagesse ancienne.

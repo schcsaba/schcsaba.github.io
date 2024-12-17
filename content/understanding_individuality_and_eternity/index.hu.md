@@ -9,6 +9,14 @@ tags = ["Bhagavad-gītā 2.12", "Örök önvaló", "A lélek természete", "Kṛ
 
 A *Bhagavad-gītā* a világ egyik legmélyebb spirituális szövege, amely időtlen bölcsességet kínál az élet természetéről, az önvalóról és az örökkévaló lélekről. A 2.12-es versben az Úr Kṛṣṇa kijelenti:
 
+> न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।\
+> न चैव नभविष्यामः सर्वे वयमतः परम् ॥ १२ ॥
+> 
+> *na tv evāhaṁ jātu nāsaṁ*\
+> *na tvaṁ neme janādhipāḥ*\
+> *na caiva na bhaviṣyāmaḥ*\
+> *sarve vayam ataḥ param*
+> 
 > **Nem volt olyan idő, amikor Én nem léteztem, és öröktől fogva vagy te és ezek a királyok is; a jövőben sem fog megszűnni életünk.**
 
 Ez a vers, valamint Śrīla Prabhupāda éleslátó kommentárja forradalmi megértést nyújt az örökkévaló önvalóról, annak mindennapi életre gyakorolt hatásáról, valamint arról, hogyan rezonálnak a modern tudományos elméletek és felfedezések ezzel az ősi bölcsességgel.
