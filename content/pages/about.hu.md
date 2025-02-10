@@ -1,5 +1,5 @@
 +++
-title = "Sobre"
+title = "Rólunk"
 path = "hu/about"
 template = "pages.html"
 draft = false
