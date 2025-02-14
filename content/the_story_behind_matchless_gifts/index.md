@@ -7,7 +7,7 @@ draft = false
 tags = ["Matchless Gifts", "ISKCON History", "1960s Counterculture", "Origin Story", "Śrīla Prabhupāda"]
 +++
 
-{{ resize_image_relative(path="the_story_behind_matchless_gifts/matchless_gifts.webp", scale=1, alt="Matchless Gifts Storefront") }}
+![Matchless Gifts Storefront](matchless_gifts.webp)
 
 In the heart of New York City, a small, humble storefront on the Lower East Side became the birthplace of a global spiritual movement. This place, the *Matchless Gifts* curiosity shop, holds a special place in the history of the International Society for Krishna Consciousness (ISKCON). It was here that His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda, with boundless faith and determination, began to share the timeless teachings of Krishna consciousness with the Western world.
 

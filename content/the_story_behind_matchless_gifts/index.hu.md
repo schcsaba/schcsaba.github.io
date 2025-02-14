@@ -7,7 +7,7 @@ draft = false
 tags = ["Matchless Gifts", "ISKCON története", "1960-as évek ellenkultúrája", "Eredettörténet", "Śrīla Prabhupāda"]
 +++
 
-{{ resize_image_relative(path="the_story_behind_matchless_gifts/matchless_gifts.webp", scale=1, alt="Matchless Gifts üzlethelyiség") }}
+![Matchless Gifts üzlethelyiség](matchless_gifts.webp)
 
 New York szívében, a Lower East Side egyik kicsi, szerény üzlethelyisége vált egy globális spirituális mozgalom születési helyévé. Ez a hely, a *Matchless Gifts* különlegességek boltja, különleges helyet foglal el a Krisna-tudatú Hívők Nemzetközi Közösségének (ISKCON) történetében. Itt kezdte el Ő Isteni Kegyelme A.C. Bhaktivedanta Swami Prabhupāda határtalan hittel és eltökéltséggel megosztani a Krisna-tudat időtlen tanításait a nyugati világgal.
 
