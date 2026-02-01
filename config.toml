@@ -35,14 +35,15 @@ include_content = true            # include rendered content of page/section in 
 # truncate_content_length = 100 # Truncate at nth character. May be useful if index is getting too large.
 
 [markdown]
-highlight_code = true
-highlight_theme = "css"
 bottom_footnotes = true            # adds footnote backreference
 render_emoji = false
 external_links_target_blank = true # rel="noopener"
 external_links_no_follow = false   # rel="nofollow"
 external_links_no_referrer = false # rel="noreferrer"
 smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
+
+[markdown.highlighting]
+theme = "synthwave-84"
 
 # Any Extra language you do not use, delete or comment out the extra language sections:
 [languages.fr]
@@ -268,11 +269,16 @@ favicon16 = "favicon-16x16.png"     # favicon-16x16.png
 ###############################################################################
 ### Commenting System for visitors to leave comments on pages.
 ###   hyvor talk
+###   remark42
 ###############################################################################
+
+#comment_system = "hyvor" # valid values are: "hyvor", "remark42"
 
 #comments.hyvor = "9366" # hyvor website id, comment out to disable.
 #comments.hyvorcolor = "os" # set the color property for hyvor
 
+#comments.remark42 = "https://comments.example.com" # remark42 server url, comment out to disable.
+#comments.remark42_site_id = "remark" # remark42 site id
 
 ###############################################################################
 ### Icons
